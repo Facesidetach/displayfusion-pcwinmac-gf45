@@ -1,4 +1,4 @@
-# 
+# Nouveau DisplayFusion modèles pour Mac OS | Automatique DisplayFusion modèles pour PC Windows. Avec support en ligne de commande et enregistrement de macros — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
